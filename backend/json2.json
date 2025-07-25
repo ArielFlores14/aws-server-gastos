@@ -1,0 +1,188 @@
+[
+  {
+    "nombre": "Ingenieria en Sistemas",
+    "logo": "sistemas.png",
+    "fecha": "2002-03-06",
+    "jugadores": [
+      "Valeria Gomez",
+      "Javier Torres",
+      "Daniela Ruiz",
+      "Luis Ortega",
+      "Camila Paredes",
+      "Fernando Mena",
+      "Andrea Leon",
+      "Pablo Rios",
+      "Kevin Castro"
+    ]
+  },
+  {
+    "nombre": "Ingenieria Mecanica",
+    "logo": "mecanica.png",
+    "fecha": "1980-04-16",
+    "jugadores": [
+      "Cristian Vaca",
+      "Carlos Andrade",
+      "Diego Molina",
+      "Erika Torres",
+      "Mateo Lopez",
+      "Ivan Sanchez",
+      "Natalia Espinosa",
+      "Gabriel Reyes",
+      "Oscar Gallo"
+    ]
+  },
+  {
+    "nombre": "Ingenieria Electronica",
+    "logo": "electronica.png",
+    "fecha": "1999-11-29",
+    "jugadores": [
+      "Esteban Cedeno",
+      "Miguel Salinas",
+      "Renato Bravo",
+      "Isabel Romero",
+      "Lucas Ortiz",
+      "Paula Rios",
+      "Sofia Herrera",
+      "Andres Vinueza",
+      "Nicole Velez"
+    ]
+  },
+  {
+    "nombre": "Ingenieria Industrial",
+    "logo": "industrial.png",
+    "fecha": "2000-02-27",
+    "jugadores": [
+      "Andrea Palacios",
+      "David Ramos",
+      "Melissa Quijano",
+      "Marcos Cabrera",
+      "Samantha Leon",
+      "Ignacio Pena",
+      "Santiago Becerra",
+      "Vanessa Mejia",
+      "Alexis Paredes"
+    ]
+  },
+  {
+    "nombre": "Ingenieria Civil",
+    "logo": "civil.png",
+    "fecha": "1970-08-12",
+    "jugadores": [
+      "Gustavo Ortiz",
+      "Daniel Heredia",
+      "Martina Reyes",
+      "Julio Lema",
+      "Emilia Gomez",
+      "Tomas Acosta",
+      "Karen Silva",
+      "Luis Macias",
+      "Sebastian Diaz"
+    ]
+  },
+  {
+    "nombre": "Ingenieria Ambiental",
+    "logo": "ambiental.png",
+    "fecha": "1986-10-01",
+    "jugadores": [
+      "Rocio Cedeno",
+      "Patricio Loor",
+      "Santiago Zambrano",
+      "Manuela Perez",
+      "Alvaro Espinoza",
+      "Brenda Quiroz",
+      "Romina Chavez",
+      "Lucas Arias"
+    ]
+  },
+  {
+    "nombre": "Ingenieria Electrica",
+    "logo": "electrica.png",
+    "fecha": "2003-04-26",
+    "jugadores": [
+      "Ignacio Herrera",
+      "Marcelo Cardenas",
+      "Estefania Vaca",
+      "Julian Castro",
+      "Maria Jose Vega",
+      "Roberto Almeida",
+      "Ximena Aguilar",
+      "Leonardo Tapia"
+    ]
+  },
+  {
+    "nombre": "Ingenieria en Telecomunicaciones",
+    "logo": "telecom.png",
+    "fecha": "2008-03-09",
+    "jugadores": [
+      "Ivanna Medina",
+      "Felipe Lopez",
+      "Nataly Solis",
+      "Marco Alvarado",
+      "Jorge Paredes",
+      "Ana Beltran",
+      "Edwin Lara",
+      "Silvia Molina"
+    ]
+  },
+  {
+    "nombre": "Ingenieria Biomedica",
+    "logo": "biomedica.png",
+    "fecha": "2009-12-19",
+    "jugadores": [
+      "Lorena Zamora",
+      "Cesar Herrera",
+      "Tatiana Ayala",
+      "Mauro Garcia",
+      "Veronica Cueva",
+      "Esteban Rios",
+      "Briana Sanchez",
+      "Carlos Guevara"
+    ]
+  },
+  {
+    "nombre": "Ingenieria Quimica",
+    "logo": "quimica.png",
+    "fecha": "1999-12-16",
+    "jugadores": [
+      "Natalia Benitez",
+      "Andres Caicedo",
+      "Raul Pineda",
+      "Alejandra Luna",
+      "Marcos Diaz",
+      "Camila Serrano",
+      "Hector Viteri",
+      "Valentina Cruz"
+    ]
+  },
+  {
+    "nombre": "Ingenieria Agroindustrial",
+    "logo": "agroindustrial.png",
+    "fecha": "1996-08-01",
+    "jugadores": [
+      "Pedro Mena",
+      "Sofia Barrera",
+      "Rafael Pena",
+      "Dayana Torres",
+      "Mauricio Vera",
+      "Angela Reinoso",
+      "Brayan Mendoza",
+      "Carla Cabrera"
+    ]
+  },
+  {
+    "nombre": "Ingenieria en Software",
+    "logo": "software.png",
+    "fecha": "2004-02-28",
+    "jugadores": [
+      "Diego Suarez",
+      "Martina Ortega",
+      "Jonathan Bravo",
+      "Elena Tapia",
+      "Lucas Romero",
+      "Karen Rios",
+      "Francisco Mejia",
+      "Daniela Vargas",
+      "Matias Aguirre"
+    ]
+  }
+]
